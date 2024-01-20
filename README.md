@@ -5,4 +5,4 @@ The goal of this study is to classify microalgae of different species, using mac
 Keywords: Microalgae; Machine learning (ML); Deep learning (DL); Geometric feature; Texture feature; Image pre-processing
 
 # Image Dataset
-File "Microalgae_image_dataset.zip" contains the image dataset used in the paper "Artificial intelligence-driven microalgae autotrophic batch cultivation: A comparative study of machine and deep learning-based image classification models". The image dataset is publicly available for academic and research purposes.
+File "Microalgae_image_dataset.zip" contains the image dataset used in the paper "Artificial intelligence-driven microalgae autotrophic batch cultivation: A comparative study of machine and deep learning-based image classification models". Three types of microalgae species namely _Chlorella vulgaris_ FSP-E, _Chlamydomonas reinhardtii_, and _Spirulina platensis_ are available in the image dataset. The image dataset is publicly available for academic and research purposes.
