@@ -9,5 +9,4 @@ File "Microalgae_image_dataset.zip" contains the image dataset used in the paper
 
 # Referencing and citation
 If you find _Chlorella vulgaris_ FSP-E, _Chlamydomonas reinhardtii_, and _Spirulina platensis_ classification useful in your research, please consider citing:
-************* To be updated ***************
-The DOI: http://dx.doi.org/10.1016/j.algal.2024.103400
+Based on the DOI: http://dx.doi.org/10.1016/j.algal.2024.103400
