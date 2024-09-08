@@ -1,3 +1,6 @@
+# Graphical Abstract
+![Research pipeline_Experiment_1](https://github.com/user-attachments/assets/9a833045-8254-4e59-9c27-38306c19000e)
+
 # Artificial intelligence-driven microalgae autotrophic batch cultivation: A comparative study of machine and deep learning-based image classification models
 By Jun Wei Roy Chong, Kuan Shiong Khoo, Kit Wayne Chew, Huong-Yong Ting, Iwamoto Koji, Roger Ruan, Zengling Ma, Pau Loke Show
 
